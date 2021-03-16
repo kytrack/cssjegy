@@ -9,7 +9,7 @@ a
     color: gray;
 }
 
-table
+#elso
 {
     width: 980px;
     border-collapse: collapse;
@@ -17,3 +17,17 @@ table
     text-align: center;
 }
 
+#masodik
+{
+width: 940px;
+border-collapse: collapse;
+background-color: white;
+}
+
+#masodiksor
+{
+    height: 40px;
+    background-color: black;
+    color: white;
+    
+}
